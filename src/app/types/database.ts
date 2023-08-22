@@ -15,6 +15,7 @@ export interface Database {
           created_at: string
           id: string
           user_id: string
+          
         }
         Insert: {
           content: string
